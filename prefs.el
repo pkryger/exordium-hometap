@@ -5,3 +5,5 @@
       '(("Hack Regular" . 120)
         ("DejaVu Sans Mono for Powerline" . 120)
         ("Monaco" . 120)))
+
+(setq exordium-rtags-cmake-build-dir "bld")
