@@ -2,12 +2,12 @@
 (setq exordium-preferred-frame-width  100
       exordium-preferred-frame-height 45)
 (setq exordium-preferred-fonts
-      '(("Fira Code" . 120)
-        ("Hack" . 120)
-        ("DejaVu Sans Mono for Powerline" . 120)
-        ("M+ 1mn" . 120)
-        ("M+ 1m" . 120)
-        ("Monaco" . 120)))
+      '(("Fira Code" . 130)
+        ("Hack" . 130)
+        ("DejaVu Sans Mono for Powerline" . 130)
+        ("M+ 1mn" . 130)
+        ("M+ 1m" . 130)
+        ("Monaco" . 130)))
 
 (setq exordium-rtags-cmake-build-dir "../bld")
 (setq exordium-rtags-cmake t)
