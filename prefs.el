@@ -9,9 +9,6 @@
         ("M+ 1m" . 130)
         ("Monaco" . 130)))
 
-(setq exordium-rtags-cmake-build-dir "../bld")
-(setq exordium-rtags-cmake t)
-
 (defcustom exordium-preferred-variable-fonts
   '(("Fira Sans"  . 125))
   ;; TODO: come up with a list of reasonable fonts
